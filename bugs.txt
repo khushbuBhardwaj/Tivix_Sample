@@ -1,0 +1,17 @@
+1.search result does not get filtered on the basis og model field enter
+2.Country name "Germainy" is written instead of "Germany"
+3.Pick-up date of past should not be accetable. now it is taking past pick up date.
+4.drop-off date of past should not be accetable. now it is taking past drop-off date.
+5.pick-up date and drop-off date is accepting the same date that should be possible.as price listing is as per day.
+6.on user details page entered fields are getting removed if there is any field is invalid or not entered while clicking on rent button
+
+
+
+
+
+
+
+
+
+ 
+
